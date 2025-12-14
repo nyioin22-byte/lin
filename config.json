@@ -1,0 +1,19 @@
+{
+  "bots": [
+    {
+      "name": "Music-1",
+      "token": "MTQ0NDcyMzE3MTEyMTk1OTE3NA.GVjkWH.wUEFvVe6qZlvMnxm5CC5EgsuwkK3ArXDaGkcAc",
+      "voiceChannelId": "1336354221355958322"
+    },
+    {
+      "name": "Music-2",
+      "token": 'MTQ0NTU0Njk5NDg4NDkzNTc3MQ.GaSBWu.d7gOU-J09h86e29Pxp2BSRUPOLR902aX_M3a30',
+        "voiceChannelId"'960003084485029933'
+    },
+    {
+      "name": "Music-3",
+      "token": "MTQ0OTY5NzIyNDU0MzA0NzgxMA.GDD4eJ.MrjBZscrsOF-G_Hhu0W06xCCMrA18hPlMDAKdM",
+      "voiceChannelId": "960003084937990174"
+    }
+  ]
+}
